@@ -1,5 +1,4 @@
-my:
-  greeting: Hello there!
-  list:
-    values: 1, 2, 3
-    
+greeting:
+  string: Namaste!
+  environment: Development
+  
