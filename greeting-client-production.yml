@@ -1,0 +1,4 @@
+greeting:
+  uri: /greet
+  string: Namaste!
+  environment: Development
