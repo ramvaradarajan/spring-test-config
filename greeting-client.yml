@@ -1,6 +1,6 @@
 greeting:
-  uri: /greet
   string: {cipher}c9e2d29f566c46712ee9605fdb699b06889a01ca48cca07d297baac407c3d570
+  uri: /greet
   environment: Development
   version: 1.2
   
